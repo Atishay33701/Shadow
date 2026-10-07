@@ -1,0 +1,6 @@
+SHADOW V2 - GitHub setup
+1. Delete the old repository files.
+2. Upload all files from this ZIP to the repository root.
+3. Commit to main.
+4. Open Actions -> Build SHADOW APK.
+5. Download the SHADOW-debug-apk artifact after a successful build.
